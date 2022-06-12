@@ -6,9 +6,17 @@ I’m Mohd Mohsin Ghazi, a  full-stack engineer, creative coder and self-proclai
 
 <!-- Want to know more about me? Check out my portfolio. -->
 
-<h3 align="left">Languages and Tools</h3>
+<!-- Connect with me -->
 
-<p style=" display:flex; gap:10px; ">
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/mdmohsinghazi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmohsinghazi1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-mohsin-ghazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-mohsin-ghazi/" height="30" width="40" /></a>
+</p>
+
+<!-- Skils -->
+<h3 align="left">Languages and Tools</h3>
+<p display="flex" gap="10px">
   
 <!--   html5 -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
