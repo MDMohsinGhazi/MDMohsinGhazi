@@ -40,7 +40,7 @@ I’m Mohd Mohsin Ghazi, a  full-stack engineer, creative coder and self-proclai
 
 <!--   Postmam -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    <br/>
+   
 <!--   git -->
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   
