@@ -8,7 +8,8 @@ I’m Mohd Mohsin Ghazi, a  full-stack engineer, creative coder and self-proclai
 
 <h3 align="left">Languages and Tools</h3>
 
-<p align="left">
+<p align="left"  style=" display: flex;
+  gap: 10px; ">
   
 <!--   html5 -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
