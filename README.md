@@ -1,21 +1,25 @@
 ![](https://github.com/MDMohsinGhazi/MDMohsinGhazi/blob/main/Screenshot%202022-06-12%20174450.png?raw=true)
 
-Hey there 👋
+# Hey there 👋
 
-I’m Mohd Mohsin Ghazi, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+> I'm a self-taught passionate MERN Stack developer from India
+
+# About Me
+>  💼 System Engineer at Infosys                                                                                                                                     
+>  ❤️ I love writing JavaScript, and building fun experiments
 
 <!-- Want to know more about me? Check out my portfolio. -->
 
 <!-- Connect with me -->
 
-<h3 align="left">Connect with me</h3>
+# Connect with me
 <p align="left">
-<a href="https://twitter.com/mdmohsinghazi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmohsinghazi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd-mohsin-ghazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-mohsin-ghazi/" height="30" width="40" /></a>
+<a href="https://twitter.com/mdmohsinghazi1" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmohsinghazi1" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/mohd-mohsin-ghazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-mohsin-ghazi/" height="40" width="50" /></a>
 </p>
 
 <!-- Skils -->
-<h3 align="left">Languages and Tools</h3>
+# Languages and Tools
 <p display="flex" gap="10px">
   
 <!--   html5 -->
