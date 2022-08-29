@@ -67,4 +67,9 @@
  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
  </p>
+ 
+ # My Stats
+  ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDMohsinGhazi&hide=contribs,prs) 
+ #
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDMohsinGhazi&layout=compact)](https://github.com/MDMohsinGhazi/github-readme-stats)
 
