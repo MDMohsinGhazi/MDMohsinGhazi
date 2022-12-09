@@ -5,7 +5,7 @@
 > I'm a self-taught passionate MERN Stack developer from India
 
 # About Me
->  💼 System Engineer at Infosys                                                                                                                                     
+>  💼 System Engineer at Deloitte                                                                                                                                 
 >  ❤️ I love writing JavaScript, and building fun experiments
 
 <!-- Want to know more about me? Check out my portfolio. -->
